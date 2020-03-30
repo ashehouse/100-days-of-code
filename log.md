@@ -19,3 +19,32 @@
 Update: not getting it. So struggling with this whole grid thing right now. I'm also don't think I'm understanding inheriting now. My boxes aren't centering and the grid isn't laying out how I want. The whole @media thing doesn't seem like its working. ugh. I need to take a break for today. 
 
 **Link to work:** none.
+
+### Day 3: March 28, 2020 
+##### Start: 11:25am End 3:00pm
+
+**Today's Progress**: Got the mobile site to work and be laid out how I wanted it. Including putting the sidebar at the bottom of the main blog listing section.
+
+**Thoughts:** Still working on this grid thing. I got the @media to work from yesterday. Also go the smaller screen (tablet and movile) to work. But, now I'm struggling with larger screens which is essentially the whole thing about grid. So just when I felt like I had it, I didn't. I tried to work on it again at night, but it wasn't happening. So I'm not really counting that time toward my final coding time.
+
+**Link to work:** none.
+
+
+### Day 4: March 29, 2020 
+##### Start: 4:00pm End 6pm-ish
+
+**Today's Progress**: Still struggling with the grid. 
+
+**Thoughts:**: I had the mobile version working and looking how I wanted it to. Then finally I got the desktop version to work! I was so pumped. But then I went back to check on my mobile version and it now has two columns for some reason and the top nav bar is showing up when it shouldn't be! It's probably something in my base css. Grr. 
+
+**Link to work:** none.
+
+
+### Day 5: March 30, 2020 
+##### Start: 8:15am End: 
+
+**Today's Progress**:  
+
+**Thoughts:**: 
+
+**Link to work:** none.
