@@ -52,10 +52,10 @@ I then moved on to JavaScript. The first lesson in Udacity seemed like they dive
 **Link to work:** none.
 
 ### Day 5: March 31, 2020 
-##### Start: 8:17am End: 
+##### Start: 8:17am End: 2:15pm
 
-**Today's Progress**: 
+**Today's Progress**: I'm about 80% of the way through the Free Code Academy Beginner JavaScript certification course. But I also started the Intro to JavaScript free course on Udacity. I finished today on lesson 2.
 
-**Thoughts:**: 
+**Thoughts:**: As I was plugging away at the JavaScript I felt like there was some really basic component that I was missing. Like how it ties into webpages and why you'd use it and just bascially - what is it? So I found the free Intro to JavaScript course on Udacity. And thank goodness because it was exactly what I was looking for. The good news is that I seemed to have been getting the basic operations of it down from the Free Code Camp courses so once I understand what the heck it is, I'll be able to go throught that easier. 
 
 **Link to work:** none.
