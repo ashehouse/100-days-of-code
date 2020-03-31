@@ -41,9 +41,20 @@ Update: not getting it. So struggling with this whole grid thing right now. I'm 
 
 
 ### Day 5: March 30, 2020 
-##### Start: 8:15am End: 
+##### Start: 8:15am End: Noonish
 
-**Today's Progress**:  
+**Today's Progress**: Done with sample blog project! On to JavaScript
+
+**Thoughts:**: I'm not sure why, but when I booted up my blog this morning both the mobile and desktop versions worked perfectly! All I had to do was fix the individual blog post css and html pages and I resubmitted it! Finally!
+
+I then moved on to JavaScript. The first lesson in Udacity seemed like they dived right in and I didn't understand any of their terminology. So I decided to switch gears temporarily and go through the Free Code Camp's Beginniner JavaScript. Got 50% of the way through. So far it's very familar to the Harvard cs50 course.  
+
+**Link to work:** none.
+
+### Day 5: March 31, 2020 
+##### Start: 8:17am End: 
+
+**Today's Progress**: 
 
 **Thoughts:**: 
 
